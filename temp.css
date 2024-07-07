@@ -1,0 +1,47 @@
+form{
+    
+    background-color: rgb(243, 245, 249);
+    /* margin: 90px;  */
+    text-align: center;
+    width: 300px;
+    margin: auto;
+    margin-top: 60PX;
+    box-shadow: 5px 5px 12px ; 
+    font-size: 20px;
+    font-family: sans-serif;
+}
+form:hover{
+    color: rgb(43, 151, 151);
+}
+#pro{
+    color: blue;
+    font-size: 40px;
+    padding-bottom: 5px;
+}
+.tem{
+    margin-top: 10px;
+}
+#num{
+    
+    text-align: center;
+    font-size: 40px;
+    width: 200px;
+    border-radius: 5px;
+    
+}
+
+#submit{
+    color: rgb(18, 8, 198);
+    background-color:rgba(140, 140, 167, 0.559);
+    font-size: 17px;
+    border-radius: 5px;
+    margin-top: 10px;
+
+}
+#submit:hover{
+    color: rgba(5, 20, 26, 0.388);
+    
+}
+.choose{
+    color: rgba(0, 0, 0, 0.445);
+}
